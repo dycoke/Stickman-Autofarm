@@ -1,1 +1,1 @@
-# Stickman-Autofarm
+Bot the Stickman autofarm
